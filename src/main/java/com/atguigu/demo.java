@@ -14,5 +14,7 @@ public class demo {
     @Test
     public void test2(){
         System.out.println("hello");
+        System.out.println("你好");
+
     }
 }
