@@ -16,5 +16,6 @@ public class demo {
         System.out.println("hello");
         System.out.println("你好");
 
+        System.out.println("github");
     }
 }
