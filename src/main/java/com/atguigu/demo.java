@@ -10,4 +10,8 @@ public class demo {
     public void test1(){
         System.out.println("hello");
     }
+    @Test
+    public void test2(){
+        System.out.println("hello");
+    }
 }
