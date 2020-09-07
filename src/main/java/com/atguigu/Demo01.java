@@ -42,4 +42,8 @@ public class Demo01 {
         System.out.println("第一次修改操作");
 
     }
+
+    public void a(){
+        System.out.println("王峰");
+    }
 }
