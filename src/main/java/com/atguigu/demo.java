@@ -15,7 +15,6 @@ public class demo {
     public void test2(){
         System.out.println("hello");
         System.out.println("你好");
-
         System.out.println("github");
     }
     @Test
